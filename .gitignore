@@ -1,2 +1,11 @@
 # Project exclude paths
 /challenges/out/
+
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+challenges.iml
+out/

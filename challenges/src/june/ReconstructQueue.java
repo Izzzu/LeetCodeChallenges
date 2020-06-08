@@ -36,7 +36,7 @@ public class ReconstructQueue {
         for(int i = 0; i<people.length; i++) {
             a.add(people[i][1], people[i]);
         }
-        Integer.to
+
 
         return a.toArray(new int[a.size()][]);
     }
